@@ -27,5 +27,24 @@
       "review": 4,
       "main_photo": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?cs=srgb&dl=pexels-pixabay-417173.jpg&fm=jpg"
     }
+  ],
+  "info": [
+    {
+      "id": 1,
+      "name": "RedFish Lake",
+      "info": "Redfish Lake is known for its clear waters and surrounding peaks. It requires moderate hiking skills and is located near the Sawtooth National Recreation Area. The trail offers stunning views of the surrounding wilderness.",
+      "metr": "4000m",
+      "time": "1.5 hours",
+      "difficulty": "Medium",
+      "review": 4.5,
+      "price": "2000tg",
+      "photos": [
+        "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?cs=srgb&dl=pexels-pixabay-417173.jpg&fm=jpg", 
+        "https://plus.unsplash.com/premium_photo-1672115680958-54438df0ab82?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnRhaW5zfGVufDB8fDB8fHww",
+        "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?cs=srgb&dl=pexels-pixabay-417173.jpg&fm=jpg",
+        "https://plus.unsplash.com/premium_photo-1672115680958-54438df0ab82?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnRhaW5zfGVufDB8fDB8fHww"
+      ],
+      "Gps": "https://loc.wiki/t/18106233?wa=sc" 
+    }
   ]
 }
