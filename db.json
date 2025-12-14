@@ -2,49 +2,135 @@
   "trips": [
     {
       "id": 1,
-      "name": "RedFish Lake",
-      "metr": "1000m",
-      "time": "1 hours",
-      "difficulty": "Hard",
-      "review": 3,
-      "main_photo": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?cs=srgb&dl=pexels-pixabay-417173.jpg&fm=jpg"
+      "name": "Big Almaty Lake",
+      "metr": "2511m",
+      "time": "4 hours",
+      "difficulty": "Medium",
+      "review": 5,
+      "main_photo": "https://www.wendywutours.co.nz/resource/upload/2133/b5e7affc6bde4a25936e1e20b20cfc77.jpg.webp"
     },
     {
       "id": 2,
-      "name": "Mountainous Trip",
-      "metr": "4000m",
-      "time": "4 hours",
-      "difficulty": "Easy",
-      "review": 4.5,
-      "main_photo": "https://www.wildnatureimages.com/images/640/070620-014-The-Tetons.jpg"
+      "name": "Furmanov Swings",
+      "metr": "2600m",
+      "time": "3 hours",
+      "difficulty": "Medium",
+      "review": 4,
+      "main_photo": "https://en.orda.kz/uploads/posts/2025-09/sizes/1440x810/1758013874_whatsapp-image-2025-09-16-at-10_53_34.webp"
     },
     {
       "id": 3,
-      "name": "RedFish Lake",
-      "metr": "3000m",
+      "name": "Kok Zhailau",
+      "metr": "2250m",
       "time": "2 hours",
-      "difficulty": "Medium",
-      "review": 4,
-      "main_photo": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?cs=srgb&dl=pexels-pixabay-417173.jpg&fm=jpg"
+      "difficulty": "Easy",
+      "review": 4.8,
+      "main_photo": "https://gorny-club.kz/wp-content/uploads/2016/10/9IZeMkHNYe64dm73Ec1zFlI0Lx2GLB-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Japan Road",
+      "metr": "2200m",
+      "time": "2 hours",
+      "difficulty": "Easy",
+      "review": 3.9,
+      "main_photo": "https://avatars.mds.yandex.net/get-vh/15059138/2a00000199cd183e02b42628828eba5c6df7/smart_crop_516x290"
+    },
+    {
+      "id": 5,
+      "name": "Butakovka Gorge",
+      "metr": "2300m",
+      "time": "2 hours",
+      "difficulty": "Easy",
+      "review": 4.2,
+      "main_photo": "https://almaty-travel.kz/cms/uploads/file_1328862053_280571853.jpg"
     }
   ],
   "info": [
     {
       "id": 1,
-      "name": "RedFish Lake",
-      "info": "Redfish Lake is known for its clear waters and surrounding peaks. It requires moderate hiking skills and is located near the Sawtooth National Recreation Area. The trail offers stunning views of the surrounding wilderness.",
-      "metr": "4000m",
-      "time": "1.5 hours",
+      "name": "Big Almaty Lake",
+      "info": "Big Almaty Lake is a high-mountain lake known for its turquoise water and dramatic alpine peaks. It is located in the Trans-Ili Alatau mountains near Almaty. The area is popular for hiking and photography, but swimming is prohibited as the lake is a protected drinking water source.",
+      "metr": "2511m",
+      "time": "4 hours",
       "difficulty": "Medium",
-      "review": 4.5,
+      "review": 5,
+      "price": "4000tg",
+      "photos": [
+        "https://www.wendywutours.co.nz/resource/upload/2133/b5e7affc6bde4a25936e1e20b20cfc77.jpg.webp", 
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/8b/a0/bd.jpg",
+        "https://www.visitmekazakhstan.com/wp-content/uploads/2018/02/ALMATYLAKE.jpg",
+        "https://welcome.kz/en/assets/images/products/0_gallery/locations/almaty/BAO/0.%20Tourists_Big_Almaty_lake_Almaty_city%20%20(14).jpg"
+      ],
+      "Gps": "https://loc.wiki/t/139156416?wa=sc" 
+    },
+    {
+      "id": 2,
+      "name": "Furmanov Swings",
+      "info": "Furmanov Swings is a scenic mountain swing located in the Kimasar Gorge near Almaty at about 2,600 m above sea level, offering panoramic views of the valley and surrounding peaks. The hike from Medeo to the swing typically takes around 2–5 hours one way depending on pace and route, with a moderate ascent along well-trodden trails suitable for hikers with average fitness. The spot is famous for beautiful views and photos rather than physical difficulty.",
+      "metr": "2600m",
+      "time": "3 hours",
+      "difficulty": "Medium",
+      "review": 4,
+      "price": "3000tg",
+      "photos": [
+        "https://en.orda.kz/uploads/posts/2025-09/sizes/1440x810/1758013874_whatsapp-image-2025-09-16-at-10_53_34.webp", 
+        "https://static.tildacdn.pro/tild3862-3361-4934-a430-643763616235/2020_0903_09594200.jpg",
+        "https://en.orda.kz/uploads/posts/2025-09/1758013974_1758012393_mycollages.jpg",
+        "https://static.tildacdn.pro/tild6335-6136-4435-a635-373833316535/6CpfEUIxam3-q_OW7Ega.jpg"
+      ],
+      "Gps": "https://loc.wiki/t/37713185?wa=sc" 
+    },
+    {
+      "id": 3,
+      "name": "Kok Zhailau",
+      "info": "Kok Zhailau is a wide alpine meadow located in the Trans-Ili Alatau mountains above Almaty. It is one of the most popular hiking destinations due to its gentle trails, open green fields, and panoramic views of the city and surrounding peaks. The hike usually starts from Medeo or nearby routes and is suitable for beginners with basic fitness.",
+      "metr": "2250m",
+      "time": "2 hours",
+      "difficulty": "Easy",
+      "review": 4.8,
+      "price": "2500tg",
+      "photos": [
+        "https://gorny-club.kz/wp-content/uploads/2016/10/9IZeMkHNYe64dm73Ec1zFlI0Lx2GLB-1.jpg", 
+        "https://sxodim.com/uploads/posts/2023/05/24/optimized/9bc8fd52d38d73074a6524690efe8f35_1400x790-q-85.jpg",
+        "https://visitalmaty.kz/wp-content/uploads/2022/07/6f698e1e7c6e937fe67fa33c3ae2734b_800xauto-q-85-1.jpg",
+        "https://eurasia.travel/wp-content/uploads/2024/10/13.-Kok-Zhailau-1024x683.jpg"
+      ],
+      "Gps": "https://loc.wiki/t/18106233?wa=sc" 
+    },
+    {
+      "id": 4,
+      "name": "Japan Road",
+      "info": "Old Japan Road is a popular and easy mountain trail located above Almaty in the Trans-Ili Alatau. The route follows an old service road with a gentle incline, making it suitable for beginners and casual hikers. It offers wide panoramic views of Almaty, surrounding gorges, and mountain ridges, and is often used as an access route to Kok Zhailau.",
+      "metr": "2200m",
+      "time": "2 hours",
+      "difficulty": "Easy",
+      "review": 3.9,
       "price": "2000tg",
       "photos": [
-        "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?cs=srgb&dl=pexels-pixabay-417173.jpg&fm=jpg", 
-        "https://plus.unsplash.com/premium_photo-1672115680958-54438df0ab82?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnRhaW5zfGVufDB8fDB8fHww",
-        "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?cs=srgb&dl=pexels-pixabay-417173.jpg&fm=jpg",
-        "https://plus.unsplash.com/premium_photo-1672115680958-54438df0ab82?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnRhaW5zfGVufDB8fDB8fHww"
+        "https://avatars.mds.yandex.net/get-vh/15059138/2a00000199cd183e02b42628828eba5c6df7/smart_crop_516x290", 
+        "https://static.tildacdn.pro/tild6630-6436-4838-b936-363638313639/IMG_1001-min.JPG",
+        "https://x-travels.ru/wp-content/uploads/2015/01/truba.jpg",
+        "https://x-travels.ru/wp-content/uploads/2015/01/vverh.jpg"
       ],
-      "Gps": "https://www.google.com/maps/d/u/0/viewer?mid=1i6U4o-Gk6JKI9Z0rHkoaljvG9iZ3hA4&femb=1&ll=43.08731337657389%2C77.08345096257838&z=13" 
+      "Gps": "https://loc.wiki/t/120526309?wa=sc" 
+    },
+    {
+      "id": 5,
+      "name": "Butakovka Gorge",
+      "info": "Butakovka is a popular mountain gorge and hiking area near Almaty, known for its river, forest trails, and fresh mountain air. The route is easy and suitable for beginners, families, and casual walks. Many hikers visit Butakovka for short hikes, picnics, and access to nearby waterfalls and viewpoints.",
+      "metr": "2300m",
+      "time": "2 hours",
+      "difficulty": "Easy",
+      "review": 4.2,
+      "price": "3000tg",
+      "photos": [
+        "https://almaty-travel.kz/cms/uploads/file_1328862053_280571853.jpg", 
+        "https://eurasia.travel/wp-content/uploads/2024/10/4.-Butakovskoye-Gorge-1024x683.jpg",
+        "https://eurasia.travel/wp-content/uploads/2024/10/3.-Butakovskoye-Gorge.jpg",
+        "https://x-travels.ru/wp-content/uploads/2013/07/furman.jpg"
+      ],
+      "Gps": "https://loc.wiki/t/151365861?wa=sc" 
     }
   ]
 }
