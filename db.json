@@ -80,15 +80,6 @@
       "difficulty": "Easy",
       "review": 4.9,
       "main_photo": "https://media-cdn.tripadvisor.com/media/photo-s/19/e0/a7/ee/ayusai-valley.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Terra Field",
-      "metr": "2630m",
-      "time": "4 hours",
-      "difficulty": "Medium",
-      "review": 4.8,
-      "main_photo": "https://static.tildacdn.pro/tild3131-6233-4536-b364-383036363864/bl1fibCoeG4-min.jpg"
     }
   ],
   "info": [
@@ -244,23 +235,6 @@
         "https://en.tengrinews.kz/userdata/map/201a1e58008b575ba79aa41bf014cc78.jpeg"
       ],
       "Gps": "https://loc.wiki/t/174157360?wa=sc" 
-    },
-    {
-      "id": 10,
-      "name": "Terra Field",
-      "info": "Terra Field is a picturesque alpine meadow in the Prokhodnoye Gorge near Almaty, popular for day hikes with scenic views of surrounding peaks and forests. The route passes along mountain streams and meadows, offering beautiful natural landscapes and opportunities for photography, picnics, and camping. The trail is of moderate difficulty and suitable for hikers with average fitness, with a total round trip often taking most of the day. From the meadow, there are views of Big Almaty Peak and nearby mountains, making it a rewarding destination in the Alatau range.",
-      "metr": "2630m",
-      "time": "4 hours",
-      "difficulty": "Medium",
-      "review": 4.8,
-      "price": "5000tg",
-      "photos": [
-        "https://zabugorshiki.com/wp-content/uploads/2020/10/Terra3-1024x576.jpg", 
-        "https://zabugorshiki.com/wp-content/uploads/2020/10/Terra3-1024x576.jpg",
-        "https://static.tildacdn.pro/tild3131-6233-4536-b364-383036363864/bl1fibCoeG4-min.jpg",
-        "https://static.tildacdn.pro/tild3131-6233-4536-b364-383036363864/bl1fibCoeG4-min.jpg"
-      ],
-      "Gps": "https://loc.wiki/t/73452425?wa=sc" 
     }
   ]
 }
