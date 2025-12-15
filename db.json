@@ -56,15 +56,6 @@
     },
     {
       "id": 7,
-      "name": "Bukreev Peak",
-      "metr": "3010m",
-      "time": "4 hours",
-      "difficulty": "Medium",
-      "review": 5,
-      "main_photo": "https://wildticketasia.com/uploads/posts/2024-10/1728070882_bukreev-peak-01.jpg"
-    },
-    {
-      "id": 8,
       "name": "Bogdanovich Glacier",
       "metr": "3300m",
       "time": "3 hours",
@@ -178,23 +169,6 @@
     },
     {
       "id": 7,
-      "name": "Bukreev Peak",
-      "info": "Bukreev Peak is a challenging high-altitude mountain near Almaty, named after the legendary Kazakh mountaineer Anatoli Bukreev. It is popular among experienced hikers and climbers due to its steep ascents, rocky terrain, and significant elevation. The climb requires good physical preparation and acclimatization, as weather conditions can change rapidly. From the summit, hikers are rewarded with stunning views of the Trans-Ili Alatau range and surrounding alpine landscapes.",
-      "metr": "3010m",
-      "time": "4 hours",
-      "difficulty": "Medium",
-      "review": 5,
-      "price": "5000tg",
-      "photos": [
-        "https://wildticketasia.com/uploads/posts/2024-10/1728070882_bukreev-peak-01.jpg", 
-        "https://zabugorshiki.com/wp-content/uploads/2020/08/IMG_1037-1024x683.jpg?v=1598615487",
-        "https://static.tildacdn.pro/tild6635-3966-4431-a234-376137316139/_YD_ZD6MXbQ.jpg",
-        "https://x-travels.ru/wp-content/uploads/2015/06/stela.jpg"
-      ],
-      "Gps": "https://loc.wiki/t/140116073?wa=sc" 
-    },
-    {
-      "id": 8,
       "name": "Bogdanovich Glacier",
       "info": "Bogdanovich Glacier is one of the most accessible glaciers near Almaty, located in the Trans-Ili Alatau mountains. It is a popular destination for hikers and tourists due to its impressive ледниковые landscapes, icy terrain, and close proximity to the city. The route usually passes through alpine meadows and rocky paths and does not require technical climbing skills in summer. Bogdanovich Glacier is often visited for day hikes, photography, and as a starting point for routes to nearby peaks.",
       "metr": "3300m",
