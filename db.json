@@ -71,15 +71,6 @@
       "difficulty": "Medium",
       "review": 5,
       "main_photo": "https://cdn.explorekazakhstan.net/images/tours/45/2_1000x560.webp"
-    },
-    {
-      "id": 9,
-      "name": "Ayusai Waterfall",
-      "metr": "1700m",
-      "time": "1 hours",
-      "difficulty": "Easy",
-      "review": 4.9,
-      "main_photo": "https://media-cdn.tripadvisor.com/media/photo-s/19/e0/a7/ee/ayusai-valley.jpg"
     }
   ],
   "info": [
@@ -218,23 +209,6 @@
         "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/16/db/6d/ff.jpg"
       ],
       "Gps": "https://loc.wiki/t/162987660?wa=sc" 
-    },
-    {
-      "id": 9,
-      "name": "Ayusai Waterfall",
-      "info": "Ayusai Waterfall is a scenic and easily accessible natural attraction near Almaty, located in the Ayusai Gorge. It is a popular destination for beginners, families, and casual hikers thanks to its short and well-marked trail. The route passes through forest paths and mountain streams, making it ideal for relaxed walks and photography. Ayusai Waterfall is especially beautiful in spring and early summer when the water flow is strongest.",
-      "metr": "1700m",
-      "time": "1 hours",
-      "difficulty": "Easy",
-      "review": 4.9,
-      "price": "2000tg",
-      "photos": [
-        "https://media-cdn.tripadvisor.com/media/photo-s/19/e0/a7/ee/ayusai-valley.jpg", 
-        "https://s0.wklcdn.com/image_438/13156207/174157361/108651648.400x300.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/ed/15/getlstd-property-photo.jpg?w=700&h=400&s=1",
-        "https://en.tengrinews.kz/userdata/map/201a1e58008b575ba79aa41bf014cc78.jpeg"
-      ],
-      "Gps": "https://loc.wiki/t/174157360?wa=sc" 
     }
   ]
 }
