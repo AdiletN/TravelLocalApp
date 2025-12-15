@@ -44,6 +44,51 @@
       "difficulty": "Easy",
       "review": 4.2,
       "main_photo": "https://almaty-travel.kz/cms/uploads/file_1328862053_280571853.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Big Almaty Peak",
+      "metr": "3680m",
+      "time": "5 hours",
+      "difficulty": "Hard",
+      "review": 4.6,
+      "main_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUnYxa_ipHCMG1s2Atk3QtU94HZinsGkmsg&s"
+    },
+    {
+      "id": 7,
+      "name": "Bukreev Peak",
+      "metr": "3010m",
+      "time": "4 hours",
+      "difficulty": "Medium",
+      "review": 5,
+      "main_photo": "https://wildticketasia.com/uploads/posts/2024-10/1728070882_bukreev-peak-01.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bogdanovich Glacier",
+      "metr": "3300m",
+      "time": "3 hours",
+      "difficulty": "Medium",
+      "review": 5,
+      "main_photo": "https://cdn.explorekazakhstan.net/images/tours/45/2_1000x560.webp"
+    },
+    {
+      "id": 9,
+      "name": "Ayusai Waterfall",
+      "metr": "1700m",
+      "time": "1 hours",
+      "difficulty": "Easy",
+      "review": 4.9,
+      "main_photo": "https://media-cdn.tripadvisor.com/media/photo-s/19/e0/a7/ee/ayusai-valley.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Terra Field",
+      "metr": "2630m",
+      "time": "4 hours",
+      "difficulty": "Medium",
+      "review": 4.8,
+      "main_photo": "https://i.ytimg.com/vi/rhJI39-PvDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAN3J5RLCDA2Y06PBYWpkdEP2IvVA"
     }
   ],
   "info": [
@@ -131,6 +176,91 @@
         "https://x-travels.ru/wp-content/uploads/2013/07/furman.jpg"
       ],
       "Gps": "https://loc.wiki/t/151365861?wa=sc" 
+    },
+    {
+      "id": 6,
+      "name": "Big Almaty Peak",
+      "info": "Big Almaty Peak is one of the highest and most famous mountains near Almaty, offering breathtaking panoramic views of the city, Big Almaty Lake, and the surrounding Tian Shan peaks. It is a popular destination for experienced hikers and climbers, especially in summer and early autumn. The route is physically demanding due to high altitude and steep sections, but it does not require technical climbing skills. Big Almaty Peak is often chosen by adventurers seeking a serious mountain challenge and unforgettable alpine scenery.",
+      "metr": "3680m",
+      "time": "5 hours",
+      "difficulty": "Hard",
+      "review": 4.6,
+      "price": "7000tg",
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUnYxa_ipHCMG1s2Atk3QtU94HZinsGkmsg&s", 
+        "https://visitalmaty.kz/wp-content/uploads/2022/07/%D0%91%D0%90%D0%9F-3.jpg",
+        "https://sxodim.com/uploads/posts/2023/07/03/optimized/c4e703f1c8075fff6b81f3d63ae211db_1400x790-q-85.jpg",
+        "https://img.inform.kz/kazinform-photobank/media/2025-10-09/e7aac3bb-f8ce-4dcb-bf8e-4d4964140b8a.webp"
+      ],
+      "Gps": "https://loc.wiki/t/220122941?wa=sc" 
+    },
+    {
+      "id": 7,
+      "name": "Bukreev Peak",
+      "info": "Bukreev Peak is a challenging high-altitude mountain near Almaty, named after the legendary Kazakh mountaineer Anatoli Bukreev. It is popular among experienced hikers and climbers due to its steep ascents, rocky terrain, and significant elevation. The climb requires good physical preparation and acclimatization, as weather conditions can change rapidly. From the summit, hikers are rewarded with stunning views of the Trans-Ili Alatau range and surrounding alpine landscapes.",
+      "metr": "3010m",
+      "time": "4 hours",
+      "difficulty": "Medium",
+      "review": 5,
+      "price": "5000tg",
+      "photos": [
+        "https://wildticketasia.com/uploads/posts/2024-10/1728070882_bukreev-peak-01.jpg", 
+        "https://zabugorshiki.com/wp-content/uploads/2020/08/IMG_1037-1024x683.jpg?v=1598615487",
+        "https://static.tildacdn.pro/tild6635-3966-4431-a234-376137316139/_YD_ZD6MXbQ.jpg",
+        "https://x-travels.ru/wp-content/uploads/2015/06/stela.jpg"
+      ],
+      "Gps": "https://loc.wiki/t/140116073?wa=sc" 
+    },
+    {
+      "id": 8,
+      "name": "Bogdanovich Glacier",
+      "info": "Bogdanovich Glacier is one of the most accessible glaciers near Almaty, located in the Trans-Ili Alatau mountains. It is a popular destination for hikers and tourists due to its impressive ледниковые landscapes, icy terrain, and close proximity to the city. The route usually passes through alpine meadows and rocky paths and does not require technical climbing skills in summer. Bogdanovich Glacier is often visited for day hikes, photography, and as a starting point for routes to nearby peaks.",
+      "metr": "3300m",
+      "time": "3 hours",
+      "difficulty": "Medium",
+      "review": 5,
+      "price": "10000tg",
+      "photos": [
+        "https://cdn.explorekazakhstan.net/images/tours/45/2_1000x560.webp", 
+        "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/02/26/96116.jpg",
+        "https://avatars.mds.yandex.net/i?id=2104af96627088d421cf28bf4398bb8a5a82ac8b-5858707-images-thumbs&n=13",
+        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/16/db/6d/ff.jpg"
+      ],
+      "Gps": "https://loc.wiki/t/162987660?wa=sc" 
+    },
+    {
+      "id": 9,
+      "name": "Ayusai Waterfall",
+      "info": "Ayusai Waterfall is a scenic and easily accessible natural attraction near Almaty, located in the Ayusai Gorge. It is a popular destination for beginners, families, and casual hikers thanks to its short and well-marked trail. The route passes through forest paths and mountain streams, making it ideal for relaxed walks and photography. Ayusai Waterfall is especially beautiful in spring and early summer when the water flow is strongest.",
+      "metr": "1700m",
+      "time": "1 hours",
+      "difficulty": "Easy",
+      "review": 4.9,
+      "price": "2000tg",
+      "photos": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/19/e0/a7/ee/ayusai-valley.jpg", 
+        "https://s0.wklcdn.com/image_438/13156207/174157361/108651648.400x300.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/eb/ed/15/getlstd-property-photo.jpg?w=700&h=400&s=1",
+        "https://en.tengrinews.kz/userdata/map/201a1e58008b575ba79aa41bf014cc78.jpeg"
+      ],
+      "Gps": "https://loc.wiki/t/174157360?wa=sc" 
+    },
+    {
+      "id": 10,
+      "name": "Terra Field",
+      "info": "Terra Field is a picturesque alpine meadow in the Prokhodnoye Gorge near Almaty, popular for day hikes with scenic views of surrounding peaks and forests. The route passes along mountain streams and meadows, offering beautiful natural landscapes and opportunities for photography, picnics, and camping. The trail is of moderate difficulty and suitable for hikers with average fitness, with a total round trip often taking most of the day. From the meadow, there are views of Big Almaty Peak and nearby mountains, making it a rewarding destination in the Alatau range.",
+      "metr": "2630m",
+      "time": "4 hours",
+      "difficulty": "Medium",
+      "review": 4.8,
+      "price": "5000tg",
+      "photos": [
+        "https://i.ytimg.com/vi/rhJI39-PvDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAN3J5RLCDA2Y06PBYWpkdEP2IvVA", 
+        "https://zabugorshiki.com/wp-content/uploads/2020/10/Terra3-1024x576.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtVZXTSL4QgDBNHG-jEVUbs3awzCYO-zExWg&s",
+        "https://static.tildacdn.pro/tild3131-6233-4536-b364-383036363864/bl1fibCoeG4-min.jpg"
+      ],
+      "Gps": "https://loc.wiki/t/73452425?wa=sc" 
     }
   ]
 }
