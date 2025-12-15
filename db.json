@@ -53,15 +53,6 @@
       "difficulty": "Hard",
       "review": 4.6,
       "main_photo": "https://img.inform.kz/kazinform-photobank/media/2025-10-09/e7aac3bb-f8ce-4dcb-bf8e-4d4964140b8a.webp"
-    },
-    {
-      "id": 7,
-      "name": "Bogdanovich Glacier",
-      "metr": "3300m",
-      "time": "3 hours",
-      "difficulty": "Medium",
-      "review": 5,
-      "main_photo": "https://cdn.explorekazakhstan.net/images/tours/45/2_1000x560.webp"
     }
   ],
   "info": [
@@ -166,23 +157,6 @@
         "https://img.inform.kz/kazinform-photobank/media/2025-10-09/e7aac3bb-f8ce-4dcb-bf8e-4d4964140b8a.webp"
       ],
       "Gps": "https://loc.wiki/t/220122941?wa=sc" 
-    },
-    {
-      "id": 7,
-      "name": "Bogdanovich Glacier",
-      "info": "Bogdanovich Glacier is one of the most accessible glaciers near Almaty, located in the Trans-Ili Alatau mountains. It is a popular destination for hikers and tourists due to its impressive ледниковые landscapes, icy terrain, and close proximity to the city. The route usually passes through alpine meadows and rocky paths and does not require technical climbing skills in summer. Bogdanovich Glacier is often visited for day hikes, photography, and as a starting point for routes to nearby peaks.",
-      "metr": "3300m",
-      "time": "3 hours",
-      "difficulty": "Medium",
-      "review": 5,
-      "price": "10000tg",
-      "photos": [
-        "https://cdn.explorekazakhstan.net/images/tours/45/2_1000x560.webp", 
-        "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/02/26/96116.jpg",
-        "https://avatars.mds.yandex.net/i?id=2104af96627088d421cf28bf4398bb8a5a82ac8b-5858707-images-thumbs&n=13",
-        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/16/db/6d/ff.jpg"
-      ],
-      "Gps": "https://loc.wiki/t/162987660?wa=sc" 
     }
   ]
 }
